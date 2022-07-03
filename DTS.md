@@ -31,6 +31,13 @@ Data Types Structures
     - push O(1)
     - pop O(1)
 - **queue**
+  - елемент завжди добавляється в кінець
+  - елемент заджди береться з початку
+  - FIFO first in first out
+  - основні операції
+    - enqueue O(1)
+    - dequeue O(1)
+  - можна реалізувати на основі ліста або масиву
 - **associative array**
     - hash map
     - hash
