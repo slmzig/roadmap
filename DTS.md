@@ -42,3 +42,5 @@ Data Types Structures
     - hash map
     - hash
     - dictionary
+    - tree
+    - binary tree
